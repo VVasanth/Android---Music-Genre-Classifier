@@ -1,0 +1,10 @@
+metal,
+disco,
+classical,
+hiphop,
+jazz,
+country,
+pop,
+blues,
+reggae,
+rock
